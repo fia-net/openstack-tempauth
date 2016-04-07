@@ -1,0 +1,21 @@
+{
+    "name": "fia-net/openstack-tempauth",
+    "description": "tempauth authentication for Openstack Swift on top of rackspace/php-opencloud.",
+    "license": "Apache 2.0",
+    "keywords": ["swift", "tempauth", "openstack"],
+    "authors": [
+        {
+            "name": "FIA-NET",
+            "email": "sac-dev-si@fia-net.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4";
+        "rackspace/php-opencloud": "^1.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fianet\\": "src/Fianet"
+        }
+    }
+}
