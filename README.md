@@ -12,7 +12,7 @@ http://github.com/rackspace/php-opencloud.
 Install through Composer.
 
 ```bash
-composer require fia-net/openstack-tempauth
+composer require fia-net/openstack-tempauth:"dev-master"
 ```
 ## How it works
 A lightly customized OpenStack class and a TempAuth adapter imitate the
