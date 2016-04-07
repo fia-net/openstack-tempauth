@@ -21,10 +21,8 @@ for us and does not imply modifying the php-opencloud source tree.
 Just instanciate the \Fianet\OpenStack\OpenStack class in lieu of
 \OpenCloud\OpenStack.
 
-```php
-$client = new \Fianet\OpenStack\OpenStack('http://your-swift-url-here:8080/auth/v1.0', ['username' => 'admin:admin', 'password' => 'my_password'], "my_region");
-$service = $client->objectStoreService("swift", "my_region", "publicURL");
-```
+See the file example/usage.php file.
+
 
 ## Support
 This package is provided "as-is" and comes with no warranty and no
