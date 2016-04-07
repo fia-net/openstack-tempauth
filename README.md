@@ -20,7 +20,7 @@ Keystone authentication. It may not be the best solution but it works
 for us and does not imply modifying the php-opencloud source tree.
 
 ## Usage Example
-Just instanciate the \Fianet\OpenStack\OpenStack class in lieu of
+Just instantiate the \Fianet\OpenStack\OpenStack class instead of
 \OpenCloud\OpenStack.
 
 See the file example/usage.php file.
