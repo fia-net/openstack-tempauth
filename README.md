@@ -2,7 +2,7 @@
 Very basic support for tempauth authentication for swift using
 http://github.com/rackspace/php-opencloud.
 
-[![Latest Stable Version](https://poser.pugx.org/fia-net/openstack-tempauth/v/stable)](https://packagist.org/packages/fia-net/openstack-tempauth) [![Total Downloads](https://poser.pugx.org/fia-net/openstack-tempauth/downloads)](https://packagist.org/packages/fia-net/openstack-tempauth) [![Latest Unstable Version](https://poser.pugx.org/fia-net/openstack-tempauth/v/unstable)](https://packagist.org/packages/fia-net/openstack-tempauth) [![License](https://poser.pugx.org/fia-net/openstack-tempauth/license)](https://packagist.org/packages/fia-net/openstack-tempauth)
+[![Latest Stable Version](https://poser.pugx.org/fia-net/openstack-tempauth/v/stable)](https://packagist.org/packages/fia-net/openstack-tempauth) [![Total Downloads](https://poser.pugx.org/fia-net/openstack-tempauth/downloads)](https://packagist.org/packages/fia-net/openstack-tempauth) [![License](https://poser.pugx.org/fia-net/openstack-tempauth/license)](https://packagist.org/packages/fia-net/openstack-tempauth)
 
 ## Requirements
 * PHP >=5.4
